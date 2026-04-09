@@ -599,7 +599,7 @@ export const trainers = [
     name: "Rakesh Joshi",
     // experience: "3.5 Years",
     qualification: "MBA Graduate",
-    role: "Filed of Labour Law",
+    role: "Field of Labour Law",
     image: "/trainer/1.webp",
     course: "Payroll course ",
   },
@@ -2383,7 +2383,7 @@ export const footerData: FooterSection[] = [
       { text: "+91 99718 92146", href: "tel:+919971892146" }, // Clickable phone number link
       { text: "info@skillmantra.in", href: "mailto:info@skillmantra.in" }, // Clickable email link
       {
-        text: "A-45, Sector - 2, Noida, Gautam Buddha Nagar, Uttar Pradesh, 201301",
+        text: "4th-5th Floor, A-131, Sector 136, Noida, Uttar Pradesh – 201304",
         href: "https://goo.gl/maps/4F5z4", // Link to Google Maps location
       },
     ],
